@@ -1,3 +1,0 @@
-
-print( "Olá GitHub!")
-
