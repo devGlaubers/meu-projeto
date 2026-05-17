@@ -1,1 +1,1 @@
-priny("Hello git!")
+print("Hello git!")
