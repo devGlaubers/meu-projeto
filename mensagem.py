@@ -1,4 +1,4 @@
-mensagem= "hello word!Ultilizando o Git no Vscode!"
+mensagem= "hello world! Ultilizando o Git no Vscode!"
 
 
 print(mensagem)
